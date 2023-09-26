@@ -1,4 +1,4 @@
-### Club de Programación Competitiva de la UNMSM 👋
+### Competitive Programming Club UNMSM 👋
 
 <!--
 **cpcunmsm/cpcunmsm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
